@@ -1,0 +1,12 @@
+{
+	"name": "publish-subscribe",
+	"main": "index.js",
+	"type": "module",
+	"scripts": {
+		"consumers": "tsx consumer0.js & node consumer1.js & node consumer2.js",
+		"consumer0": "tsx consumer0.js",
+		"consumer1": "tsx consumer1.js",
+		"consumer2": "tsx consumer2.js",
+		"producer": "tsx producer.js"
+	}
+}

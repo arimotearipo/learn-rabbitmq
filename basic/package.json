@@ -1,0 +1,23 @@
+{
+	"name": "learn-rabbitmq",
+	"version": "1.0.0",
+	"main": "index.js",
+	"type": "module",
+	"scripts": {
+		"consumers": "node consumer0.js & node consumer1.js & node consumer2.js",
+		"consumer0": "node consumer0.js",
+		"consumer1": "node consumer1.js",
+		"consumer2": "node consumer2.js",
+		"producer": "node producer.js"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"description": "",
+	"dependencies": {
+		"amqplib": "^0.10.8"
+	},
+	"devDependencies": {
+		"@biomejs/biome": "2.1.2"
+	}
+}

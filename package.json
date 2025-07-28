@@ -3,7 +3,8 @@
 	"private": true,
 	"workspaces": [
 		"basic",
-		"publish-subscribe"
+		"publish-subscribe",
+		"routing"
 	],
 	"scripts": {
 		"bootstrap": "lerna bootstrap",

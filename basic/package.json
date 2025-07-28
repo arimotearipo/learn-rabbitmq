@@ -1,6 +1,5 @@
 {
 	"name": "basic",
-	"main": "index.js",
 	"type": "module",
 	"scripts": {
 		"consumers": "node consumer0.js & node consumer1.js & node consumer2.js",

@@ -1,0 +1,22 @@
+[
+	{ "text": "tactus", "level": "warning" },
+	{ "text": "cuius", "level": "error" },
+	{ "text": "teres", "level": "error" },
+	{ "text": "ultio", "level": "info" },
+	{ "text": "suspendo", "level": "info" },
+	{ "text": "ut", "level": "error" },
+	{ "text": "urbs", "level": "info" },
+	{ "text": "aeternus", "level": "info" },
+	{ "text": "asper", "level": "error" },
+	{ "text": "repellat", "level": "warning" },
+	{ "text": "crur", "level": "error" },
+	{ "text": "decimus", "level": "warning" },
+	{ "text": "cupio", "level": "warning" },
+	{ "text": "delicate", "level": "warning" },
+	{ "text": "ait", "level": "info" },
+	{ "text": "conduco", "level": "info" },
+	{ "text": "verbum", "level": "warning" },
+	{ "text": "capto", "level": "error" },
+	{ "text": "aliquid", "level": "warning" },
+	{ "text": "verecundia", "level": "info" }
+]

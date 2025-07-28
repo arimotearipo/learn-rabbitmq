@@ -1,5 +1,5 @@
 {
-	"name": "publish-subscribe",
+	"name": "routing",
 	"type": "module",
 	"scripts": {
 		"consumers": "tsx consumer0.js & node consumer1.js & node consumer2.js",
